@@ -4,6 +4,6 @@ This is my password generator created for the UNH coding bootcamp to fulfill the
 
 # Link to the functional GitHub page:
 
-
+https://alexanderlocke.github.io/alocke-password-generator/
 
 # Screenshot:
