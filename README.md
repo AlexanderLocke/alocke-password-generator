@@ -7,3 +7,6 @@ This is my password generator created for the UNH coding bootcamp to fulfill the
 https://alexanderlocke.github.io/alocke-password-generator/
 
 # Screenshot:
+
+![image](https://github.com/AlexanderLocke/alocke-password-generator/assets/137340611/318e2c96-ed4f-4619-9b72-b93193679844)
+
